@@ -1,4 +1,5 @@
 === Slim Maintenance Mode ===
+Contributors: wpdoc.de
 Tags: maintenance, unavailable, admin, maintenance mode
 Donate link: http://wpdoc.de/donate/
 Requires at least: 3.5
@@ -7,7 +8,7 @@ Stable tag: 4.0
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
-Simple and lightweight solution for scheduled maintenance. No huge database entries, no settings page, just activate it and do your maintenance work stress-free.
+Simple and lightweight solution for scheduled maintenance. No settings page, just activate it and do your maintenance work stress-free.
 
 == Description ==
 Slim Maintenance Mode is a lightweight solution for scheduled maintenance. Simply active the plugin and only administrators can see the website. 
