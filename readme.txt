@@ -1,6 +1,6 @@
 === Slim Maintenance Mode ===
 Contributors: wpdoc.de
-Tags: maintenance, unavailable, admin, maintenance mode
+Tags: maintenance, unavailable, admin, maintenance mode, cache
 Donate link: http://wpdoc.de/donate/
 Requires at least: 3.5
 Tested up to: 4.0
