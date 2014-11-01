@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 Simple and lightweight solution for scheduled maintenance. No settings page, just activate it and do your maintenance work stress-free.
 
 == Description ==
-Slim Maintenance Mode is a lightweight solution for scheduled maintenance. Simply active the plugin and only administrators can see the website. 
+Slim Maintenance Mode is a lightweight solution for scheduled maintenance. Simply activate the plugin and only administrators can see the website. 
 
 = Features =
 * No extra settings, just activate it, do maintenance work, deactivate it.
