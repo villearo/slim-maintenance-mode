@@ -18,7 +18,7 @@
 defined('ABSPATH') or die("No direct requests for security reasons."); 
 
 /**
- * Activation and deacvtivation with Cache Support
+ * Activation and deactivation with Cache Support
 */
 
 function slim_maintenance_mode_on_activation()  {
