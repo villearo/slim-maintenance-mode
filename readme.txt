@@ -21,7 +21,7 @@ Slim Maintenance Mode is a lightweight solution for scheduled maintenance. Simpl
 * Languages: English, German
 
 = Bug reports and Contribution =
-Hints, bug reports and contribution is highly appreciated. Please visit the [plugins github page](https://github.com/wpdocde/slim-maintenance-mode).
+Hints, bug reports and contributions are highly appreciated. Please visit the [plugins github page](https://github.com/wpdocde/slim-maintenance-mode).
 
 = Credits =
 Slim Maintenance Mode is developed by [Johannes Ries](http://wpdoc.de).
