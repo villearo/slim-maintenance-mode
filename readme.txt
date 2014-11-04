@@ -42,6 +42,10 @@ There is no settings page. This plugin is designed to be small and simple.
 
 This is only possible by directly changing the plugin file respectively the localization file.
 
+== Screenshots ==
+1. Maintenance message for website visitors in English
+2. Maintenance message for website visitors in German
+
 = I found a bug. How can I get in touch? =
 
 Please comment an existing or create a new issue on the [plugins github page](https://github.com/wpdocde/slim-maintenance-mode/issues).
