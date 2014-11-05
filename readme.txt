@@ -19,7 +19,7 @@ Slim Maintenance Mode is a lightweight solution for scheduled maintenance. Simpl
 * Works with any theme.
 * Support for the following cache plugins: Cachify, Super Cache and W3 Total Cache.
 * Sends HTTP response status code `503 Service Unavailable`, especially relevant for search engines. 
-* Available in two languages: English, German.
+* Available in three languages: English, German, Polish.
 
 = Bug reports and Contribution =
 Hints, bug reports and contributions are highly appreciated. Please visit the [plugins github page](https://github.com/wpdocde/slim-maintenance-mode).
@@ -56,10 +56,11 @@ Please create a pull request on the [plugins github page](https://github.com/wpd
 
 == Changelog ==
 = 1.1 =
-* Several corrections and enhancements of the information texts.
-* Added two screenshots.
+* Several corrections and enhancements of the information texts
+* Added two screenshots
+* Polish translation
 
 = 1.0 =
 * Initial version
 * Support for the following cache plugins: Cachify, Super Cache, W3 Total Cache
-* German Translation
+* German translation
