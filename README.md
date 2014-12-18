@@ -1,6 +1,6 @@
 # Slim Maintenance Mode
-* Requires at least: 3.5
-* Tested up to: 4.0
+* Requires at least: WordPress 3.5
+* Tested up to: WordPress 4.1
 * License: GPL-2.0+
 * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
