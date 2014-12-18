@@ -55,6 +55,11 @@ Please comment an existing or create a new issue on the [plugins github page](ht
 Please create a pull request on the [plugins github page](https://github.com/wpdocde/slim-maintenance-mode/pulls).
 
 == Changelog ==
+= 1.2 =
+* French translation
+* Spanish translation
+
+
 = 1.1 =
 * Several corrections and enhancements of the information texts
 * Added two screenshots
