@@ -22,7 +22,7 @@ Slim Maintenance Mode is a lightweight solution for scheduled maintenance. Simpl
 * Available in five languages: English, German, French, Spanish, Polish.
 
 = Bug reports and Contribution =
-Hints, bug reports and contributions are highly appreciated. Please visit the [plugins github page](https://github.com/wpdocde/slim-maintenance-mode).
+Hints, bug reports, translations and other contributions are highly appreciated. Please visit the [plugins github page](https://github.com/wpdocde/slim-maintenance-mode).
 
 = Credits =
 Slim Maintenance Mode is developed by [Johannes Ries](http://wpdoc.de).
@@ -59,7 +59,6 @@ Please create a pull request on the [plugins github page](https://github.com/wpd
 * French translation
 * Spanish translation
 
-
 = 1.1 =
 * Several corrections and enhancements of the information texts
 * Added two screenshots
@@ -69,3 +68,7 @@ Please create a pull request on the [plugins github page](https://github.com/wpd
 * Initial version
 * Support for the following cache plugins: Cachify, Super Cache, W3 Total Cache
 * German translation
+
+== Upgrade Notice ==
+= 1.2 =
+Slim Maintenance Mode is now available in French and Spanish
