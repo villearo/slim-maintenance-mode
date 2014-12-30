@@ -71,4 +71,4 @@ Please create a pull request on the [plugins github page](https://github.com/wpd
 
 == Upgrade Notice ==
 = 1.2 =
-Slim Maintenance Mode is now available in French and Spanish
+Slim Maintenance Mode is now available in French and Spanish.
