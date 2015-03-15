@@ -58,8 +58,6 @@ Please create a pull request on the [plugins github page](https://github.com/wpd
 = 1.3 =
 * Fixed a bug which caused problems, when loading translated strings
 * Brazilian Portuguese translation
-
-= 1.2.1 =
 * Fixed the FAQ
 
 = 1.2 =
