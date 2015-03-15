@@ -55,6 +55,10 @@ Please create a pull request on the [plugins github page](https://github.com/wpd
 2. Maintenance message for website visitors in German
 
 == Changelog ==
+== 1.3 ==
+* Fixed a bug which caused problems, when loading translated strings
+* Brazilian Portugese translation
+
 = 1.2.1 =
 * Fixed the FAQ.
 
@@ -73,5 +77,8 @@ Please create a pull request on the [plugins github page](https://github.com/wpd
 * German translation
 
 == Upgrade Notice ==
+= 1.3 =
+Slim Maintenance Mode is now avialable in Brazilian Portugese and comes with a bug fix for better loading translated strings.
+
 = 1.2 =
 Slim Maintenance Mode is now available in French and Spanish.
