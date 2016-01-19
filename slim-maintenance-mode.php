@@ -3,7 +3,7 @@
  * Plugin Name: Slim Maintenance Mode
  * Plugin URI: https://github.com/wpdocde/slim-maintenance-mode
  * Description: A lightweight solution for scheduled maintenance. Simply activate the plugin and only administrators can see the website.
- * Version: 1.3.1 
+ * Version: 1.3.2 
  * Author: Johannes Ries
  * Author URI: http://wpdoc.de
  * Text Domain: slim-maintenance-mode
@@ -16,6 +16,13 @@
  * Avoid direct calls
 */
 defined('ABSPATH') or die("No direct requests for security reasons."); 
+
+/*
+ * Require plugin.php
+ */ 
+if ( ! function_exists( 'is_plugin_active_for_network' ) ) {
+    require_once( ABSPATH . '/wp-admin/includes/plugin.php' );
+}
 
 /**
  * Activation and deactivation with Cache Support

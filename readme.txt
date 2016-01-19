@@ -55,6 +55,9 @@ Please create a pull request on the [plugins github page](https://github.com/wpd
 2. Maintenance message for website visitors in German
 
 == Changelog ==
+= 1.3.2 =
+* Fixed a bug which caused problems in multisite environments
+
 = 1.3.1 =
 * Russian translation
 
