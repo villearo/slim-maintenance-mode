@@ -78,7 +78,12 @@ function slim_maintenance_mode_on_deactivation() {
     if ( function_exists( 'w3tc_pgcache_flush' ) ) {
     ob_end_clean();
     w3tc_pgcache_flush();
-  }
+    }
+    
+    // Clear WP-Rocket Cache
+    if ( function_exists( 'rocket_clean_domain' ) ) {
+    rocket_clean_domain();
+    }
 }
 
 register_activation_hook(   __FILE__, 'slim_maintenance_mode_on_activation' );
