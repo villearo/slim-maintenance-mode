@@ -85,6 +85,9 @@ Please create a pull request on the [plugins github page](https://github.com/wpd
 * German translation
 
 == Upgrade Notice ==
+= 1.3.3 =
+Slim Maintenance Mode now supports the WP-Rocket Cache plugin and provides a better way to get quicker to the plugin deactivation from the note in the backend.
+
 = 1.3.1 =
 Slim Maintenance Mode is now available in Russian.
 
