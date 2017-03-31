@@ -98,7 +98,7 @@ load_plugin_textdomain( 'slim-maintenance-mode', false, dirname( plugin_basename
  * Alert message when active
 */
 function smm_admin_notices() {
-	echo '<div id="message" class="error fade"><p>' . __( '<strong>Maintenance mode</strong> is <strong>active</strong>!', 'slim-maintenance-mode' ) . ' <a href="plugins.php#slim-maintenance-mode">' . __( 'Deactivate it, when work is done.', 'slim-maintenance-mode' ) . '</a></p></div>';
+	echo '<div id="message" class="error fade"><p>' . __( '<strong>Maintenance mode</strong> is <strong>active</strong>!', 'slim-maintenance-mode' ) . ' <a href="plugins.php?s=Slim Maintenance Mode&plugin_status=all">' . __( 'Deactivate it, when work is done.', 'slim-maintenance-mode' ) . '</a></p></div>';
 }
 if ( is_multisite() && is_plugin_active_for_network( plugin_basename( __FILE__ ) ) )
 add_action( 'network_admin_notices', 'smm_admin_notices' ); 
