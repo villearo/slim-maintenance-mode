@@ -14,7 +14,7 @@ Slim Maintenance Mode is a lightweight WordPress plugin for scheduled maintenanc
 * Sends HTTP response status code `503 Service Unavailable`, especially relevant for search engines.
 * Available in seven languages: English, Russian, German, French, Spanish, Brazilian Portuguese, Polish.
 
-##Installation
+## Installation
 1. Download the plugin and unzip the zip-file.
 2. Upload the folder `slim-maintenance-mode` to the `/wp-content/plugins/` directory.
 
