@@ -55,6 +55,10 @@ Please create a pull request on the [plugins github page](https://github.com/wpd
 2. Maintenance message for website visitors in German
 
 == Changelog ==
+= 1.3.3 =
+* Added support for the WP-Rocket Cache plugin
+* Changed the way to get directly to the plugin deactivation from the note in the backend
+
 = 1.3.2 =
 * Fixed a bug which caused problems in multisite environments
 
