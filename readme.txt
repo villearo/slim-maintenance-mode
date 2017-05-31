@@ -3,7 +3,7 @@ Contributors: wpdoc.de
 Tags: maintenance, unavailable, admin, maintenance mode, cache
 Donate link: http://wpdoc.de/donate/
 Requires at least: 3.5
-Tested up to: 4.7
+Tested up to: 4.8
 Stable tag: trunk
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
@@ -11,14 +11,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 Simple and lightweight solution for scheduled maintenance. No settings page, just activate it and do your maintenance work stress-free.
 
 == Description ==
-Slim Maintenance Mode is a lightweight solution for scheduled maintenance. Simply activate the plugin and only administrators can see the website. 
+Slim Maintenance Mode is a lightweight solution for scheduled maintenance. Simply activate the plugin and only administrators can see the website.
 
 = Features =
 * No extra settings, just activate it, do maintenance work, deactivate it.
 * Alert message in the backend, when the plugin is active.
 * Works with any theme.
 * Support for the following cache plugins: Cachify, Super Cache and W3 Total Cache.
-* Sends HTTP response status code `503 Service Unavailable`, especially relevant for search engines. 
+* Sends HTTP response status code `503 Service Unavailable`, especially relevant for search engines.
 * Available in seven languages: English, Russian, German, French, Spanish, Brazilian Portuguese, Polish.
 
 = Bug reports and Contribution =
