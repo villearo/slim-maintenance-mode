@@ -21,7 +21,7 @@ defined('ABSPATH') or die("No direct requests for security reasons.");
  * Require plugin.php
  */ 
 if ( ! function_exists( 'is_plugin_active_for_network' ) ) {
-    require_once( ABSPATH . '/wp-admin/includes/plugin.php' );
+  require_once( ABSPATH . '/wp-admin/includes/plugin.php' );
 }
 
 /**
@@ -114,8 +114,8 @@ add_filter( 'login_message',
 function slim_maintenance_mode()
 {
   nocache_headers();
-  if(!current_user_can('edit_themes') || !is_user_logged_in()) {
-  wp_die( '<h1>' . __( 'Maintenance', 'slim-maintenance-mode' ) . '</h1><p>' . __( 'Please check back soon.', 'slim-maintenance-mode' ) . '</p>', __( 'Maintenance', 'slim-maintenance-mode' ), array('response' => '503'));
+  if( !current_user_can( 'edit_pages' ) || !is_user_logged_in() ) {
+    wp_die( '<h1>' . __( 'Maintenance', 'slim-maintenance-mode' ) . '</h1><p>' . __( 'Please check back soon.', 'slim-maintenance-mode' ) . '</p>', __( 'Maintenance', 'slim-maintenance-mode' ), array('response' => '503'));
   }
 }
 add_action('get_header', 'slim_maintenance_mode');
